@@ -1,5 +1,5 @@
 # CustomCowSays
-This repository contains CowSay files that I have made
+This repository contains cow files for the [cowsay](https://en.wikipedia.org/wiki/Cowsay) program
 # Feel free to use them!
 # Examples
 Sauron normal:
