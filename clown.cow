@@ -1,0 +1,13 @@
+##clown
+$the_cow = <<EOC;
+ $thoughts
+  $thoughts
+   $thoughts
+ /\$\$\$\$\\
+|\$\$\$  C
+|\$\$Q    D   
+|     < 
+ \\____/
+ _|  |_
+|      |
+EOC
